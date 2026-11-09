@@ -363,12 +363,32 @@ code/spec documentation lands under `docs/`; nothing relies on in-session memory
 
 ## About the author
 
-**Syed Mujtaba Abbas** 🇵🇰
+**Syed Mujtaba Abbas** 🇵🇰 · Full-stack developer & AI workflow builder
 
-- Portfolio & contact: **<https://syedmujtabaabbas.xyz>**
-- GitHub: [syed-mujtaba-stack](https://github.com/syed-mujtaba-stack)
-- Email: <mailto:abbasmujtaba125@gmail.com>
+[![Portfolio](https://img.shields.io/badge/Portfolio-syedmujtabaabbas.xyz-0a0a0a?logo=aboutdotme&logoColor=white)](https://syedmujtabaabbas.xyz)
+[![GitHub](https://img.shields.io/badge/GitHub-syed--mujtaba--stack-181717?logo=github&logoColor=white)](https://github.com/syed-mujtaba-stack)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mjsyed/)
+[![Instagram](https://img.shields.io/badge/Instagram-m.j__syed-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/m.j_syed/)
+[![Facebook](https://img.shields.io/badge/Facebook-Follow-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61557499523385)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Message-25D366?logo=whatsapp&logoColor=white)](https://wa.me/923460630802)
+[![Email](https://img.shields.io/badge/Email-Say%20Hi-D14836?logo=gmail&logoColor=white)](mailto:abbasmujtaba125@gmail.com)
 
-If this template saved you time, a ⭐ on
-[the repo](https://github.com/syed-mujtaba-stack/agentic-team-for-opencode) helps
-others find it.
+| Channel | Link |
+| --- | --- |
+| 🌐 Portfolio | <https://syedmujtabaabbas.xyz> |
+| 🐙 GitHub | <https://github.com/syed-mujtaba-stack> |
+| 💼 LinkedIn | <https://www.linkedin.com/in/mjsyed/> |
+| 📸 Instagram | <https://www.instagram.com/m.j_syed/> |
+| 👍 Facebook | <https://www.facebook.com/profile.php?id=61557499523385> |
+| 💬 WhatsApp | <https://wa.me/923460630802> |
+| ✉️ Email | <mailto:abbasmujtaba125@gmail.com> |
+
+## ⭐ Support the project
+
+If this agentic team template saves you time on your next build, please give it a star — it helps other developers discover free, production-grade agent workflows.
+
+[![GitHub Repo stars](https://img.shields.io/github/stars/syed-mujtaba-stack/agentic-team-for-opencode?style=social&logo=github)](https://github.com/syed-mujtaba-stack/agentic-team-for-opencode/stargazers)
+
+**Star the repo:** [github.com/syed-mujtaba-stack/agentic-team-for-opencode/stargazers](https://github.com/syed-mujtaba-stack/agentic-team-for-opencode/stargazers)
+
+---
